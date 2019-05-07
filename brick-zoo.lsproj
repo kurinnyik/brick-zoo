@@ -3,7 +3,7 @@
     "document_id": "fTrYk5by6ql_oc6OI5xn",
     "original_document_id": "ZN218oWWInb5xMNnb72T",
     "version": "2",
-    "lastChanged": "1557221531982",
+    "lastChanged": "1557229642851",
     "preview": "",
     "isReadOnly": "false",
     "studioVersion": {
@@ -27,17 +27,256 @@
             "collapsedList": [
                 [
                     [
+                        "Default Textures"
+                    ],
+                    [
+                        "Default Textures",
+                        "Base"
+                    ],
+                    [
+                        "Default Textures",
+                        "Normal"
+                    ],
+                    [
+                        "Material"
+                    ],
+                    [
+                        "duck",
+                        "3d"
+                    ],
+                    [
+                        "duck",
+                        "3d",
+                        "duck0"
+                    ],
+                    [
+                        "duck",
+                        "3d",
+                        "duck0",
+                        "Animations"
+                    ],
+                    [
+                        "duck",
+                        "3d",
+                        "duck0",
+                        "Materials"
+                    ],
+                    [
+                        "duck",
+                        "3d",
+                        "duck0",
+                        "Meshes",
+                        "polySurface27"
+                    ],
+                    [
+                        "duck",
+                        "3d",
+                        "duck0",
+                        "Textures"
+                    ],
+                    [
+                        "duck",
+                        "3d",
+                        "duck0",
+                        "duck0"
+                    ],
+                    [
+                        "duck",
+                        "3d",
+                        "duck1"
+                    ],
+                    [
+                        "duck",
+                        "3d",
+                        "duck1",
+                        "Animations"
+                    ],
+                    [
+                        "duck",
+                        "3d",
+                        "duck1",
+                        "Materials"
+                    ],
+                    [
+                        "duck",
+                        "3d",
+                        "duck1",
+                        "Meshes"
+                    ],
+                    [
+                        "duck",
+                        "3d",
+                        "duck1",
+                        "Meshes",
+                        "polySurface12"
+                    ],
+                    [
+                        "duck",
+                        "3d",
+                        "duck1",
+                        "Textures"
+                    ],
+                    [
+                        "duck",
+                        "3d",
+                        "duck1",
+                        "duck1"
+                    ],
+                    [
+                        "duck",
+                        "3d",
+                        "duck2"
+                    ],
+                    [
+                        "duck",
+                        "3d",
+                        "duck2",
+                        "Animations"
+                    ],
+                    [
+                        "duck",
+                        "3d",
+                        "duck2",
+                        "Materials"
+                    ],
+                    [
+                        "duck",
+                        "3d",
+                        "duck2",
+                        "Meshes",
+                        "polySurface25"
+                    ],
+                    [
+                        "duck",
+                        "3d",
+                        "duck2",
+                        "Textures"
+                    ],
+                    [
+                        "duck",
+                        "3d",
+                        "duck2",
+                        "duck2"
+                    ],
+                    [
+                        "duck",
+                        "3d",
+                        "duck4"
+                    ],
+                    [
+                        "duck",
+                        "3d",
+                        "duck4",
+                        "Animations"
+                    ],
+                    [
+                        "duck",
+                        "3d",
+                        "duck4",
+                        "Materials"
+                    ],
+                    [
+                        "duck",
+                        "3d",
+                        "duck4",
+                        "Meshes",
+                        "polySurface21"
+                    ],
+                    [
+                        "duck",
+                        "3d",
+                        "duck4",
+                        "Textures"
+                    ],
+                    [
+                        "duck",
+                        "3d",
+                        "duck4",
+                        "duck4"
+                    ],
+                    [
+                        "duck",
+                        "3d",
+                        "duck5head"
+                    ],
+                    [
+                        "duck",
+                        "3d",
+                        "duck5head",
+                        "Animations"
+                    ],
+                    [
+                        "duck",
+                        "3d",
+                        "duck5head",
+                        "Materials"
+                    ],
+                    [
+                        "duck",
+                        "3d",
+                        "duck5head",
+                        "Meshes"
+                    ],
+                    [
+                        "duck",
+                        "3d",
+                        "duck5head",
+                        "Meshes",
+                        "polySurface42"
+                    ],
+                    [
+                        "duck",
+                        "3d",
+                        "duck5head",
+                        "Textures"
+                    ],
+                    [
+                        "duck",
+                        "3d",
+                        "duck5head",
+                        "duck5head"
+                    ],
+                    [
+                        "duck",
+                        "duck_head"
+                    ],
+                    [
+                        "duck",
+                        "duck_head_texture"
+                    ],
+                    [
+                        "duck",
+                        "duck_red"
+                    ],
+                    [
+                        "duck",
+                        "duck_red_texture"
+                    ],
+                    [
+                        "duck",
+                        "duck_yellow"
+                    ],
+                    [
+                        "duck",
+                        "duck_yellow_texture"
+                    ],
+                    [
                         "echopark_diff"
                     ],
                     [
                         "echopark_spec"
+                    ],
+                    [
+                        "ssss"
                     ]
                 ]
             ]
         },
         "SceneTreeUiComponent": {
             "collapsedList": [
-                ""
+                [
+                    "1557228193247289:1930"
+                ]
             ]
         },
         "MetaInfoUIComponent": {
@@ -52,7 +291,9 @@
         },
         "InspectorUiComponent": {
             "collapsedList": [
-                ""
+                [
+                    "1557229498241194:2278"
+                ]
             ]
         },
         "LayerUiComponent": {
@@ -101,6 +342,208 @@
                     "flags": "1",
                     "type": "1",
                     "subtype": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1557221921826208:1145",
+                    "name": "\/Resources\/Resource10.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1557228024197245:1177",
+                    "name": "\/Resources\/Resource11.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "21",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1557228024202376:416",
+                    "name": "\/Resources\/Resource12",
+                    "sourceFilePath": "C:\/work\/brick-zoo\/duck1.obj",
+                    "additionalProperties": "",
+                    "flags": "16",
+                    "type": "12",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1557228024451175:1252",
+                    "name": "\/Resources\/Resource15.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "21",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1557228024456350:457",
+                    "name": "\/Resources\/Resource16",
+                    "sourceFilePath": "C:\/work\/brick-zoo\/duck2.obj",
+                    "additionalProperties": "",
+                    "flags": "16",
+                    "type": "12",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1557228024618830:1368",
+                    "name": "\/Resources\/Resource17.png",
+                    "sourceFilePath": "C:\/work\/brick-zoo\/duck3.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1557228024667705:1384",
+                    "name": "\/Resources\/Resource18.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "21",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1557228024672579:523",
+                    "name": "\/Resources\/Resource19",
+                    "sourceFilePath": "C:\/work\/brick-zoo\/duck4.obj",
+                    "additionalProperties": "",
+                    "flags": "16",
+                    "type": "12",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1557228024768769:1434",
+                    "name": "\/Resources\/Resource20.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "21",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1557228024778252:563",
+                    "name": "\/Resources\/Resource21",
+                    "sourceFilePath": "C:\/work\/brick-zoo\/duck5head.obj",
+                    "additionalProperties": "",
+                    "flags": "16",
+                    "type": "12",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1557228024903275:1479",
+                    "name": "\/Resources\/Resource22.png",
+                    "sourceFilePath": "C:\/work\/brick-zoo\/duck_head.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "23",
+                    "uid": "1557228024956718:1546",
+                    "name": "\/Resources\/Resource23.png",
+                    "sourceFilePath": "C:\/work\/brick-zoo\/duck_red.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "24",
+                    "uid": "1557228024994871:1633",
+                    "name": "\/Resources\/Resource24.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "21",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "25",
+                    "uid": "1557228025005919:645",
+                    "name": "\/Resources\/Resource25",
+                    "sourceFilePath": "C:\/work\/brick-zoo\/duck0.obj",
+                    "additionalProperties": "",
+                    "flags": "16",
+                    "type": "12",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1557229102900929:3293",
+                    "name": "\/Resources\/Resource26",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "27",
+                    "uid": "1557229102903350:3303",
+                    "name": "\/Resources\/Resource27.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "28",
+                    "uid": "1557229102919313:3313",
+                    "name": "\/Resources\/Resource28.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "29",
+                    "uid": "1557229300898481:3353",
+                    "name": "\/Resources\/Resource29",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "30",
+                    "uid": "1557229322361596:3393",
+                    "name": "\/Resources\/Resource30",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
                 }
             ]
         },
@@ -115,7 +558,17 @@
             "autoRenderOrder": {
                 "0": "1517446348227994:84813",
                 "1": "1517446348228144:84822",
-                "2": "1528843813151434:5126"
+                "2": "1528843813151434:5126",
+                "3": "1557228024203021:1203",
+                "4": "1557228024456746:1293",
+                "5": "1557228024672961:1410",
+                "6": "1557228024778656:1460",
+                "7": "1557228025006319:1659",
+                "8": "1557228164616619:1926",
+                "9": "1557228179910637:1928",
+                "10": "1557228193247289:1930",
+                "11": "1557228202335406:1932",
+                "12": "1557229584240442:3954"
             }
         },
         "LayerComponent": {
@@ -139,6 +592,375 @@
         }
     },
     "controller": {
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": [
+                    {
+                        "name": "duck",
+                        "groups": [
+                            {
+                                "name": "3d",
+                                "groups": [
+                                    {
+                                        "name": "duck2",
+                                        "isImportedRoot": "true",
+                                        "groups": [
+                                            {
+                                                "name": "Textures",
+                                                "groups": "",
+                                                "resources": ""
+                                            },
+                                            {
+                                                "name": "Materials",
+                                                "groups": "",
+                                                "resources": ""
+                                            },
+                                            {
+                                                "name": "Meshes",
+                                                "isReadOnly": "true",
+                                                "groups": "",
+                                                "resources": [
+                                                    {
+                                                        "name": "polySurface25",
+                                                        "resourceId": "15",
+                                                        "extension": "mesh"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "Animations",
+                                                "isReadOnly": "true",
+                                                "groups": "",
+                                                "resources": ""
+                                            }
+                                        ],
+                                        "resources": [
+                                            {
+                                                "name": "duck2",
+                                                "resourceId": "16",
+                                                "extension": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "duck4",
+                                        "isImportedRoot": "true",
+                                        "groups": [
+                                            {
+                                                "name": "Textures",
+                                                "groups": "",
+                                                "resources": ""
+                                            },
+                                            {
+                                                "name": "Materials",
+                                                "groups": "",
+                                                "resources": ""
+                                            },
+                                            {
+                                                "name": "Meshes",
+                                                "isReadOnly": "true",
+                                                "groups": "",
+                                                "resources": [
+                                                    {
+                                                        "name": "polySurface21",
+                                                        "resourceId": "18",
+                                                        "extension": "mesh"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "Animations",
+                                                "isReadOnly": "true",
+                                                "groups": "",
+                                                "resources": ""
+                                            }
+                                        ],
+                                        "resources": [
+                                            {
+                                                "name": "duck4",
+                                                "resourceId": "19",
+                                                "extension": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "duck5head",
+                                        "isImportedRoot": "true",
+                                        "groups": [
+                                            {
+                                                "name": "Textures",
+                                                "groups": "",
+                                                "resources": ""
+                                            },
+                                            {
+                                                "name": "Materials",
+                                                "groups": "",
+                                                "resources": ""
+                                            },
+                                            {
+                                                "name": "Meshes",
+                                                "isReadOnly": "true",
+                                                "groups": "",
+                                                "resources": [
+                                                    {
+                                                        "name": "polySurface42",
+                                                        "resourceId": "20",
+                                                        "extension": "mesh"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "Animations",
+                                                "isReadOnly": "true",
+                                                "groups": "",
+                                                "resources": ""
+                                            }
+                                        ],
+                                        "resources": [
+                                            {
+                                                "name": "duck5head",
+                                                "resourceId": "21",
+                                                "extension": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "duck0",
+                                        "isImportedRoot": "true",
+                                        "groups": [
+                                            {
+                                                "name": "Textures",
+                                                "groups": "",
+                                                "resources": ""
+                                            },
+                                            {
+                                                "name": "Materials",
+                                                "groups": "",
+                                                "resources": ""
+                                            },
+                                            {
+                                                "name": "Meshes",
+                                                "isReadOnly": "true",
+                                                "groups": "",
+                                                "resources": [
+                                                    {
+                                                        "name": "polySurface27",
+                                                        "resourceId": "24",
+                                                        "extension": "mesh"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "Animations",
+                                                "isReadOnly": "true",
+                                                "groups": "",
+                                                "resources": ""
+                                            }
+                                        ],
+                                        "resources": [
+                                            {
+                                                "name": "duck0",
+                                                "resourceId": "25",
+                                                "extension": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "duck1",
+                                        "isImportedRoot": "true",
+                                        "groups": [
+                                            {
+                                                "name": "Textures",
+                                                "groups": "",
+                                                "resources": ""
+                                            },
+                                            {
+                                                "name": "Materials",
+                                                "groups": "",
+                                                "resources": ""
+                                            },
+                                            {
+                                                "name": "Meshes",
+                                                "isReadOnly": "true",
+                                                "groups": "",
+                                                "resources": [
+                                                    {
+                                                        "name": "polySurface12",
+                                                        "resourceId": "11",
+                                                        "extension": "mesh"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "Animations",
+                                                "isReadOnly": "true",
+                                                "groups": "",
+                                                "resources": ""
+                                            }
+                                        ],
+                                        "resources": [
+                                            {
+                                                "name": "duck1",
+                                                "resourceId": "12",
+                                                "extension": ""
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "resources": ""
+                            }
+                        ],
+                        "resources": [
+                            {
+                                "name": "duck_yellow_texture",
+                                "resourceId": "17",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "duck_head_texture",
+                                "resourceId": "22",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "duck_red_texture",
+                                "resourceId": "23",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "duck_red",
+                                "resourceId": "29",
+                                "extension": ""
+                            },
+                            {
+                                "name": "duck_head",
+                                "resourceId": "30",
+                                "extension": ""
+                            },
+                            {
+                                "name": "duck_yellow",
+                                "resourceId": "26",
+                                "extension": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Default Textures",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "Base",
+                                "resourceId": "27",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Normal",
+                                "resourceId": "28",
+                                "extension": "png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Material",
+                        "groups": "",
+                        "resources": ""
+                    }
+                ],
+                "resources": [
+                    {
+                        "name": "Camera Output",
+                        "resourceId": "1",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "resourceId": "2",
+                        "extension": ""
+                    },
+                    {
+                        "name": "echopark_diff",
+                        "resourceId": "8",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "echopark_spec",
+                        "resourceId": "9",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "ssss",
+                        "resourceId": "10",
+                        "extension": "js"
+                    }
+                ]
+            },
+            "publicAssets": [
+                {
+                    "id": "8",
+                    "path": "echopark_diff.png"
+                },
+                {
+                    "id": "9",
+                    "path": "echopark_spec.png"
+                },
+                {
+                    "id": "10",
+                    "path": "ssss.js"
+                },
+                {
+                    "id": "11",
+                    "path": "duck\/3d\/duck1\/Meshes\/polySurface12.mesh"
+                },
+                {
+                    "id": "15",
+                    "path": "duck\/3d\/duck2\/Meshes\/polySurface25.mesh"
+                },
+                {
+                    "id": "17",
+                    "path": "duck\/duck_yellow_texture.png"
+                },
+                {
+                    "id": "18",
+                    "path": "duck\/3d\/duck4\/Meshes\/polySurface21.mesh"
+                },
+                {
+                    "id": "20",
+                    "path": "duck\/3d\/duck5head\/Meshes\/polySurface42.mesh"
+                },
+                {
+                    "id": "22",
+                    "path": "duck\/duck_head_texture.png"
+                },
+                {
+                    "id": "23",
+                    "path": "duck\/duck_red_texture.png"
+                },
+                {
+                    "id": "24",
+                    "path": "duck\/3d\/duck0\/Meshes\/polySurface27.mesh"
+                },
+                {
+                    "id": "26",
+                    "path": "duck\/duck_yellow"
+                },
+                {
+                    "id": "27",
+                    "path": "Default Textures\/Base.png"
+                },
+                {
+                    "id": "28",
+                    "path": "Default Textures\/Normal.png"
+                },
+                {
+                    "id": "29",
+                    "path": "duck\/duck_red"
+                },
+                {
+                    "id": "30",
+                    "path": "duck\/duck_head"
+                }
+            ]
+        },
         "InspectorController": {
             "selection": ""
         },
@@ -163,43 +985,116 @@
             "state": {
                 "objectToInfo": ""
             },
-            "importInfo": ""
-        },
-        "ResourceController": {
-            "tree": {
-                "name": "Root",
-                "groups": "",
-                "resources": [
-                    {
-                        "name": "Camera Output",
-                        "resourceId": "1",
-                        "extension": ""
-                    },
-                    {
-                        "name": "Device Camera Texture",
-                        "resourceId": "2",
-                        "extension": ""
-                    },
-                    {
-                        "name": "echopark_diff",
-                        "resourceId": "8",
-                        "extension": "png"
-                    },
-                    {
-                        "name": "echopark_spec",
-                        "resourceId": "9",
-                        "extension": "png"
-                    }
-                ]
-            },
-            "publicAssets": [
+            "importInfo": [
                 {
-                    "id": "8",
-                    "path": "echopark_diff.png"
+                    "k": "1557228024202376:416",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1557228275243300:1963"
+                        },
+                        {
+                            "k": [
+                                "polySurface12"
+                            ],
+                            "v": "1557228275245519:1964"
+                        },
+                        {
+                            "k": [
+                                "polySurface12",
+                                "Component.MeshVisual"
+                            ],
+                            "v": "1557228275246540:1965"
+                        }
+                    ]
                 },
                 {
-                    "id": "9",
-                    "path": "echopark_spec.png"
+                    "k": "1557228024456350:457",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1557228024456312:1275"
+                        },
+                        {
+                            "k": [
+                                "polySurface25"
+                            ],
+                            "v": "1557228024456321:1277"
+                        },
+                        {
+                            "k": [
+                                "polySurface25",
+                                "Component.MeshVisual"
+                            ],
+                            "v": "1557228024456325:1279"
+                        }
+                    ]
+                },
+                {
+                    "k": "1557228024672579:523",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1557228024672541:1392"
+                        },
+                        {
+                            "k": [
+                                "polySurface21"
+                            ],
+                            "v": "1557228024672552:1394"
+                        },
+                        {
+                            "k": [
+                                "polySurface21",
+                                "Component.MeshVisual"
+                            ],
+                            "v": "1557228024672556:1396"
+                        }
+                    ]
+                },
+                {
+                    "k": "1557228024778252:563",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1557228024778210:1442"
+                        },
+                        {
+                            "k": [
+                                "polySurface42"
+                            ],
+                            "v": "1557228024778221:1444"
+                        },
+                        {
+                            "k": [
+                                "polySurface42",
+                                "Component.MeshVisual"
+                            ],
+                            "v": "1557228024778224:1446"
+                        }
+                    ]
+                },
+                {
+                    "k": "1557228025005919:645",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1557228025005879:1641"
+                        },
+                        {
+                            "k": [
+                                "polySurface27"
+                            ],
+                            "v": "1557228025005888:1643"
+                        },
+                        {
+                            "k": [
+                                "polySurface27",
+                                "Component.MeshVisual"
+                            ],
+                            "v": "1557228025005892:1645"
+                        }
+                    ]
                 }
             ]
         }
