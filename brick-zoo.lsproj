@@ -3,7 +3,7 @@
     "document_id": "fTrYk5by6ql_oc6OI5xn",
     "original_document_id": "ZN218oWWInb5xMNnb72T",
     "version": "2",
-    "lastChanged": "1557229642851",
+    "lastChanged": "1557233854515",
     "preview": "",
     "isReadOnly": "false",
     "studioVersion": {
@@ -27,17 +27,24 @@
             "collapsedList": [
                 [
                     [
+                        "_lensInternal"
+                    ],
+                    [
+                        "_lensInternal",
                         "Default Textures"
                     ],
                     [
+                        "_lensInternal",
                         "Default Textures",
                         "Base"
                     ],
                     [
+                        "_lensInternal",
                         "Default Textures",
                         "Normal"
                     ],
                     [
+                        "_lensInternal",
                         "Material"
                     ],
                     [
@@ -267,7 +274,365 @@
                         "echopark_spec"
                     ],
                     [
-                        "ssss"
+                        "panda",
+                        "3d"
+                    ],
+                    [
+                        "panda",
+                        "3d",
+                        "panda0"
+                    ],
+                    [
+                        "panda",
+                        "3d",
+                        "panda0",
+                        "Animations"
+                    ],
+                    [
+                        "panda",
+                        "3d",
+                        "panda0",
+                        "Materials"
+                    ],
+                    [
+                        "panda",
+                        "3d",
+                        "panda0",
+                        "Materials",
+                        "lambert3"
+                    ],
+                    [
+                        "panda",
+                        "3d",
+                        "panda0",
+                        "Meshes",
+                        "m_000065_2"
+                    ],
+                    [
+                        "panda",
+                        "3d",
+                        "panda0",
+                        "Textures"
+                    ],
+                    [
+                        "panda",
+                        "3d",
+                        "panda0",
+                        "Textures",
+                        "checker"
+                    ],
+                    [
+                        "panda",
+                        "3d",
+                        "panda0",
+                        "panda0"
+                    ],
+                    [
+                        "panda",
+                        "3d",
+                        "panda1"
+                    ],
+                    [
+                        "panda",
+                        "3d",
+                        "panda1",
+                        "Animations"
+                    ],
+                    [
+                        "panda",
+                        "3d",
+                        "panda1",
+                        "Materials"
+                    ],
+                    [
+                        "panda",
+                        "3d",
+                        "panda1",
+                        "Materials",
+                        "defaultPolygonShader"
+                    ],
+                    [
+                        "panda",
+                        "3d",
+                        "panda1",
+                        "Meshes",
+                        "pasted__m_0000101"
+                    ],
+                    [
+                        "panda",
+                        "3d",
+                        "panda1",
+                        "Textures"
+                    ],
+                    [
+                        "panda",
+                        "3d",
+                        "panda1",
+                        "panda1"
+                    ],
+                    [
+                        "panda",
+                        "3d",
+                        "panda2"
+                    ],
+                    [
+                        "panda",
+                        "3d",
+                        "panda2",
+                        "Animations"
+                    ],
+                    [
+                        "panda",
+                        "3d",
+                        "panda2",
+                        "Materials"
+                    ],
+                    [
+                        "panda",
+                        "3d",
+                        "panda2",
+                        "Materials",
+                        "defaultPolygonShader"
+                    ],
+                    [
+                        "panda",
+                        "3d",
+                        "panda2",
+                        "Meshes"
+                    ],
+                    [
+                        "panda",
+                        "3d",
+                        "panda2",
+                        "Meshes",
+                        "polySurface5_2"
+                    ],
+                    [
+                        "panda",
+                        "3d",
+                        "panda2",
+                        "Textures"
+                    ],
+                    [
+                        "panda",
+                        "3d",
+                        "panda2",
+                        "panda2"
+                    ],
+                    [
+                        "panda",
+                        "3d",
+                        "panda3"
+                    ],
+                    [
+                        "panda",
+                        "3d",
+                        "panda3",
+                        "Animations"
+                    ],
+                    [
+                        "panda",
+                        "3d",
+                        "panda3",
+                        "Materials"
+                    ],
+                    [
+                        "panda",
+                        "3d",
+                        "panda3",
+                        "Materials",
+                        "lambert3"
+                    ],
+                    [
+                        "panda",
+                        "3d",
+                        "panda3",
+                        "Meshes"
+                    ],
+                    [
+                        "panda",
+                        "3d",
+                        "panda3",
+                        "Meshes",
+                        "m_000038"
+                    ],
+                    [
+                        "panda",
+                        "3d",
+                        "panda3",
+                        "Textures"
+                    ],
+                    [
+                        "panda",
+                        "3d",
+                        "panda3",
+                        "Textures",
+                        "checker"
+                    ],
+                    [
+                        "panda",
+                        "3d",
+                        "panda3",
+                        "panda3"
+                    ],
+                    [
+                        "panda",
+                        "3d",
+                        "panda4"
+                    ],
+                    [
+                        "panda",
+                        "3d",
+                        "panda4",
+                        "Animations"
+                    ],
+                    [
+                        "panda",
+                        "3d",
+                        "panda4",
+                        "Materials"
+                    ],
+                    [
+                        "panda",
+                        "3d",
+                        "panda4",
+                        "Materials",
+                        "defaultPolygonShader"
+                    ],
+                    [
+                        "panda",
+                        "3d",
+                        "panda4",
+                        "Meshes"
+                    ],
+                    [
+                        "panda",
+                        "3d",
+                        "panda4",
+                        "Meshes",
+                        "m_0000011"
+                    ],
+                    [
+                        "panda",
+                        "3d",
+                        "panda4",
+                        "Textures"
+                    ],
+                    [
+                        "panda",
+                        "3d",
+                        "panda4",
+                        "panda4"
+                    ],
+                    [
+                        "panda",
+                        "3d",
+                        "panda5"
+                    ],
+                    [
+                        "panda",
+                        "3d",
+                        "panda5",
+                        "Animations"
+                    ],
+                    [
+                        "panda",
+                        "3d",
+                        "panda5",
+                        "Materials"
+                    ],
+                    [
+                        "panda",
+                        "3d",
+                        "panda5",
+                        "Meshes"
+                    ],
+                    [
+                        "panda",
+                        "3d",
+                        "panda5",
+                        "Meshes",
+                        "pasted__m_0000100"
+                    ],
+                    [
+                        "panda",
+                        "3d",
+                        "panda5",
+                        "Textures"
+                    ],
+                    [
+                        "panda",
+                        "3d",
+                        "panda5",
+                        "base_6"
+                    ],
+                    [
+                        "panda",
+                        "Materials"
+                    ],
+                    [
+                        "panda",
+                        "Materials",
+                        "panda0"
+                    ],
+                    [
+                        "panda",
+                        "Materials",
+                        "panda1"
+                    ],
+                    [
+                        "panda",
+                        "Materials",
+                        "panda2"
+                    ],
+                    [
+                        "panda",
+                        "Materials",
+                        "panda3"
+                    ],
+                    [
+                        "panda",
+                        "Materials",
+                        "panda4"
+                    ],
+                    [
+                        "panda",
+                        "Materials",
+                        "panda5"
+                    ],
+                    [
+                        "panda",
+                        "Textures"
+                    ],
+                    [
+                        "panda",
+                        "Textures",
+                        "panda_tx0"
+                    ],
+                    [
+                        "panda",
+                        "Textures",
+                        "panda_tx1"
+                    ],
+                    [
+                        "panda",
+                        "Textures",
+                        "panda_tx2"
+                    ],
+                    [
+                        "panda",
+                        "Textures",
+                        "panda_tx3"
+                    ],
+                    [
+                        "panda",
+                        "Textures",
+                        "panda_tx4"
+                    ],
+                    [
+                        "panda",
+                        "Textures",
+                        "panda_tx5"
                     ]
                 ]
             ]
@@ -275,7 +640,14 @@
         "SceneTreeUiComponent": {
             "collapsedList": [
                 [
-                    "1557228193247289:1930"
+                    "1557228193247289:1930",
+                    "1557231255852119:4638",
+                    "1557231257836834:5188",
+                    "1557231258838747:5660",
+                    "1557231260930748:6142",
+                    "1557231261956492:6609",
+                    "1557231456065582:2887",
+                    "1557231456068857:2901"
                 ]
             ]
         },
@@ -341,16 +713,6 @@
                     "additionalProperties": "",
                     "flags": "1",
                     "type": "1",
-                    "subtype": "0"
-                },
-                {
-                    "resId": "10",
-                    "uid": "1557221921826208:1145",
-                    "name": "\/Resources\/Resource10.js",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1",
-                    "type": "4",
                     "subtype": "0"
                 },
                 {
@@ -544,6 +906,390 @@
                     "flags": "1",
                     "type": "2",
                     "subtype": "0"
+                },
+                {
+                    "resId": "33",
+                    "uid": "1557231255762427:4468",
+                    "name": "\/Resources\/Resource33.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "5",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "34",
+                    "uid": "1557231255762652:4475",
+                    "name": "\/Resources\/Resource34.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "21",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "35",
+                    "uid": "1557231255770598:4483",
+                    "name": "\/Resources\/Resource35",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "5",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "36",
+                    "uid": "1557231255851488:2678",
+                    "name": "\/Resources\/Resource36",
+                    "sourceFilePath": "C:\/work\/pandadetails\/panda0.fbx",
+                    "additionalProperties": {
+                        "importParams": {
+                            "regenerateNormalsForSkinned": "true",
+                            "generatePivots": "true",
+                            "importVertexColor": "true",
+                            "importVertexAnimation": "true",
+                            "importTangents": "true",
+                            "importBlendShapeAnimation": "true",
+                            "animationCurveOptimization": "true"
+                        }
+                    },
+                    "flags": "16",
+                    "type": "12",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "39",
+                    "uid": "1557231257734159:5149",
+                    "name": "\/Resources\/Resource39.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "21",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "40",
+                    "uid": "1557231257742017:5157",
+                    "name": "\/Resources\/Resource40",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "5",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "41",
+                    "uid": "1557231257836592:3035",
+                    "name": "\/Resources\/Resource41",
+                    "sourceFilePath": "C:\/work\/pandadetails\/panda1.fbx",
+                    "additionalProperties": {
+                        "importParams": {
+                            "regenerateNormalsForSkinned": "true",
+                            "generatePivots": "true",
+                            "importVertexColor": "true",
+                            "importVertexAnimation": "true",
+                            "importTangents": "true",
+                            "importBlendShapeAnimation": "true",
+                            "animationCurveOptimization": "true"
+                        }
+                    },
+                    "flags": "16",
+                    "type": "12",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "42",
+                    "uid": "1557231258745088:5569",
+                    "name": "\/Resources\/Resource42.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "21",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "43",
+                    "uid": "1557231258756334:5577",
+                    "name": "\/Resources\/Resource43",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "5",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "44",
+                    "uid": "1557231258838111:3191",
+                    "name": "\/Resources\/Resource44",
+                    "sourceFilePath": "C:\/work\/pandadetails\/panda2.fbx",
+                    "additionalProperties": {
+                        "importParams": {
+                            "regenerateNormalsForSkinned": "true",
+                            "generatePivots": "true",
+                            "importVertexColor": "true",
+                            "importVertexAnimation": "true",
+                            "importTangents": "true",
+                            "importBlendShapeAnimation": "true",
+                            "animationCurveOptimization": "true"
+                        }
+                    },
+                    "flags": "16",
+                    "type": "12",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "45",
+                    "uid": "1557231260834245:6096",
+                    "name": "\/Resources\/Resource45.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "5",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "46",
+                    "uid": "1557231260834486:6103",
+                    "name": "\/Resources\/Resource46.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "21",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "47",
+                    "uid": "1557231260843384:6111",
+                    "name": "\/Resources\/Resource47",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "5",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "48",
+                    "uid": "1557231260930516:3435",
+                    "name": "\/Resources\/Resource48",
+                    "sourceFilePath": "C:\/work\/pandadetails\/panda3.fbx",
+                    "additionalProperties": {
+                        "importParams": {
+                            "regenerateNormalsForSkinned": "true",
+                            "generatePivots": "true",
+                            "importVertexColor": "true",
+                            "importVertexAnimation": "true",
+                            "importTangents": "true",
+                            "importBlendShapeAnimation": "true",
+                            "animationCurveOptimization": "true"
+                        }
+                    },
+                    "flags": "16",
+                    "type": "12",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "49",
+                    "uid": "1557231261846560:6570",
+                    "name": "\/Resources\/Resource49.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "21",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "50",
+                    "uid": "1557231261857025:6578",
+                    "name": "\/Resources\/Resource50",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "5",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "51",
+                    "uid": "1557231261956252:3605",
+                    "name": "\/Resources\/Resource51",
+                    "sourceFilePath": "C:\/work\/pandadetails\/panda4.fbx",
+                    "additionalProperties": {
+                        "importParams": {
+                            "regenerateNormalsForSkinned": "true",
+                            "generatePivots": "true",
+                            "importVertexColor": "true",
+                            "importVertexAnimation": "true",
+                            "importTangents": "true",
+                            "importBlendShapeAnimation": "true",
+                            "animationCurveOptimization": "true"
+                        }
+                    },
+                    "flags": "16",
+                    "type": "12",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "54",
+                    "uid": "1557231715332600:12058",
+                    "name": "\/Resources\/Resource54.png",
+                    "sourceFilePath": "C:\/work\/pandadetails\/materials\/base_6.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "55",
+                    "uid": "1557231715421106:12067",
+                    "name": "\/Resources\/Resource55.png",
+                    "sourceFilePath": "C:\/work\/pandadetails\/materials\/base_1.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "56",
+                    "uid": "1557231715521131:12076",
+                    "name": "\/Resources\/Resource56.png",
+                    "sourceFilePath": "C:\/work\/pandadetails\/materials\/base_2.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "57",
+                    "uid": "1557231715602872:12085",
+                    "name": "\/Resources\/Resource57.png",
+                    "sourceFilePath": "C:\/work\/pandadetails\/materials\/base_3.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "58",
+                    "uid": "1557231715684854:12094",
+                    "name": "\/Resources\/Resource58.png",
+                    "sourceFilePath": "C:\/work\/pandadetails\/materials\/base_4.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "59",
+                    "uid": "1557231715782445:12103",
+                    "name": "\/Resources\/Resource59.png",
+                    "sourceFilePath": "C:\/work\/pandadetails\/materials\/base_5.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "60",
+                    "uid": "1557231785251356:12155",
+                    "name": "\/Resources\/Resource60",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "61",
+                    "uid": "1557231801212459:12181",
+                    "name": "\/Resources\/Resource61",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "62",
+                    "uid": "1557231840211996:12201",
+                    "name": "\/Resources\/Resource62",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "63",
+                    "uid": "1557231844810009:12213",
+                    "name": "\/Resources\/Resource63",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "64",
+                    "uid": "1557231850912154:12233",
+                    "name": "\/Resources\/Resource64",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "65",
+                    "uid": "1557231854796847:12245",
+                    "name": "\/Resources\/Resource65",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "88",
+                    "uid": "1557233681786035:6673",
+                    "name": "\/Resources\/Resource88.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "21",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "89",
+                    "uid": "1557233681790776:2554",
+                    "name": "\/Resources\/Resource89",
+                    "sourceFilePath": "C:\/work\/base_6.obj",
+                    "additionalProperties": "",
+                    "flags": "16",
+                    "type": "12",
+                    "subtype": "0"
                 }
             ]
         },
@@ -568,7 +1314,13 @@
                 "9": "1557228179910637:1928",
                 "10": "1557228193247289:1930",
                 "11": "1557228202335406:1932",
-                "12": "1557229584240442:3954"
+                "12": "1557229584240442:3954",
+                "13": "1557231456083076:2949",
+                "14": "1557231497537636:3991",
+                "15": "1557231526333594:5216",
+                "16": "1557231573673806:8418",
+                "17": "1557231597657730:9669",
+                "18": "1557233681791200:6699"
             }
         },
         "LayerComponent": {
@@ -828,6 +1580,11 @@
                                 "extension": "png"
                             },
                             {
+                                "name": "duck_yellow",
+                                "resourceId": "26",
+                                "extension": ""
+                            },
+                            {
                                 "name": "duck_red",
                                 "resourceId": "29",
                                 "extension": ""
@@ -836,33 +1593,406 @@
                                 "name": "duck_head",
                                 "resourceId": "30",
                                 "extension": ""
-                            },
-                            {
-                                "name": "duck_yellow",
-                                "resourceId": "26",
-                                "extension": ""
                             }
                         ]
                     },
                     {
-                        "name": "Default Textures",
-                        "groups": "",
-                        "resources": [
+                        "name": "panda",
+                        "groups": [
                             {
-                                "name": "Base",
-                                "resourceId": "27",
-                                "extension": "png"
+                                "name": "3d",
+                                "groups": [
+                                    {
+                                        "name": "panda0",
+                                        "isImportedRoot": "true",
+                                        "groups": [
+                                            {
+                                                "name": "Textures",
+                                                "groups": "",
+                                                "resources": [
+                                                    {
+                                                        "name": "checker",
+                                                        "resourceId": "33",
+                                                        "extension": "png"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "Materials",
+                                                "groups": "",
+                                                "resources": [
+                                                    {
+                                                        "name": "lambert3",
+                                                        "resourceId": "35",
+                                                        "extension": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "Meshes",
+                                                "isReadOnly": "true",
+                                                "groups": "",
+                                                "resources": [
+                                                    {
+                                                        "name": "m_000065_2",
+                                                        "resourceId": "34",
+                                                        "extension": "mesh"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "Animations",
+                                                "isReadOnly": "true",
+                                                "groups": "",
+                                                "resources": ""
+                                            }
+                                        ],
+                                        "resources": [
+                                            {
+                                                "name": "panda0",
+                                                "resourceId": "36",
+                                                "extension": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "panda1",
+                                        "isImportedRoot": "true",
+                                        "groups": [
+                                            {
+                                                "name": "Textures",
+                                                "groups": "",
+                                                "resources": ""
+                                            },
+                                            {
+                                                "name": "Materials",
+                                                "groups": "",
+                                                "resources": [
+                                                    {
+                                                        "name": "defaultPolygonShader",
+                                                        "resourceId": "40",
+                                                        "extension": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "Meshes",
+                                                "isReadOnly": "true",
+                                                "groups": "",
+                                                "resources": [
+                                                    {
+                                                        "name": "pasted__m_0000101",
+                                                        "resourceId": "39",
+                                                        "extension": "mesh"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "Animations",
+                                                "isReadOnly": "true",
+                                                "groups": "",
+                                                "resources": ""
+                                            }
+                                        ],
+                                        "resources": [
+                                            {
+                                                "name": "panda1",
+                                                "resourceId": "41",
+                                                "extension": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "panda2",
+                                        "isImportedRoot": "true",
+                                        "groups": [
+                                            {
+                                                "name": "Textures",
+                                                "groups": "",
+                                                "resources": ""
+                                            },
+                                            {
+                                                "name": "Materials",
+                                                "groups": "",
+                                                "resources": [
+                                                    {
+                                                        "name": "defaultPolygonShader",
+                                                        "resourceId": "43",
+                                                        "extension": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "Meshes",
+                                                "isReadOnly": "true",
+                                                "groups": "",
+                                                "resources": [
+                                                    {
+                                                        "name": "polySurface5_2",
+                                                        "resourceId": "42",
+                                                        "extension": "mesh"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "Animations",
+                                                "isReadOnly": "true",
+                                                "groups": "",
+                                                "resources": ""
+                                            }
+                                        ],
+                                        "resources": [
+                                            {
+                                                "name": "panda2",
+                                                "resourceId": "44",
+                                                "extension": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "panda3",
+                                        "isImportedRoot": "true",
+                                        "groups": [
+                                            {
+                                                "name": "Textures",
+                                                "groups": "",
+                                                "resources": [
+                                                    {
+                                                        "name": "checker",
+                                                        "resourceId": "45",
+                                                        "extension": "png"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "Materials",
+                                                "groups": "",
+                                                "resources": [
+                                                    {
+                                                        "name": "lambert3",
+                                                        "resourceId": "47",
+                                                        "extension": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "Meshes",
+                                                "isReadOnly": "true",
+                                                "groups": "",
+                                                "resources": [
+                                                    {
+                                                        "name": "m_000038",
+                                                        "resourceId": "46",
+                                                        "extension": "mesh"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "Animations",
+                                                "isReadOnly": "true",
+                                                "groups": "",
+                                                "resources": ""
+                                            }
+                                        ],
+                                        "resources": [
+                                            {
+                                                "name": "panda3",
+                                                "resourceId": "48",
+                                                "extension": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "panda4",
+                                        "isImportedRoot": "true",
+                                        "groups": [
+                                            {
+                                                "name": "Textures",
+                                                "groups": "",
+                                                "resources": ""
+                                            },
+                                            {
+                                                "name": "Materials",
+                                                "groups": "",
+                                                "resources": [
+                                                    {
+                                                        "name": "defaultPolygonShader",
+                                                        "resourceId": "50",
+                                                        "extension": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "Meshes",
+                                                "isReadOnly": "true",
+                                                "groups": "",
+                                                "resources": [
+                                                    {
+                                                        "name": "m_0000011",
+                                                        "resourceId": "49",
+                                                        "extension": "mesh"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "Animations",
+                                                "isReadOnly": "true",
+                                                "groups": "",
+                                                "resources": ""
+                                            }
+                                        ],
+                                        "resources": [
+                                            {
+                                                "name": "panda4",
+                                                "resourceId": "51",
+                                                "extension": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "panda5",
+                                        "isImportedRoot": "true",
+                                        "groups": [
+                                            {
+                                                "name": "Textures",
+                                                "groups": "",
+                                                "resources": ""
+                                            },
+                                            {
+                                                "name": "Materials",
+                                                "groups": "",
+                                                "resources": ""
+                                            },
+                                            {
+                                                "name": "Meshes",
+                                                "isReadOnly": "true",
+                                                "groups": "",
+                                                "resources": [
+                                                    {
+                                                        "name": "pasted__m_0000100",
+                                                        "resourceId": "88",
+                                                        "extension": "mesh"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "Animations",
+                                                "isReadOnly": "true",
+                                                "groups": "",
+                                                "resources": ""
+                                            }
+                                        ],
+                                        "resources": [
+                                            {
+                                                "name": "base_6",
+                                                "resourceId": "89",
+                                                "extension": ""
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "resources": ""
                             },
                             {
-                                "name": "Normal",
-                                "resourceId": "28",
-                                "extension": "png"
+                                "name": "Materials",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "panda0",
+                                        "resourceId": "60",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "panda1",
+                                        "resourceId": "61",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "panda2",
+                                        "resourceId": "62",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "panda3",
+                                        "resourceId": "63",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "panda4",
+                                        "resourceId": "64",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "panda5",
+                                        "resourceId": "65",
+                                        "extension": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Textures",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "panda_tx5",
+                                        "resourceId": "54",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "panda_tx0",
+                                        "resourceId": "55",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "panda_tx1",
+                                        "resourceId": "56",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "panda_tx2",
+                                        "resourceId": "57",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "panda_tx3",
+                                        "resourceId": "58",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "panda_tx4",
+                                        "resourceId": "59",
+                                        "extension": "png"
+                                    }
+                                ]
                             }
-                        ]
+                        ],
+                        "resources": ""
                     },
                     {
-                        "name": "Material",
-                        "groups": "",
+                        "name": "_lensInternal",
+                        "groups": [
+                            {
+                                "name": "Default Textures",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "Base",
+                                        "resourceId": "27",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "Normal",
+                                        "resourceId": "28",
+                                        "extension": "png"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Material",
+                                "groups": "",
+                                "resources": ""
+                            }
+                        ],
                         "resources": ""
                     }
                 ],
@@ -886,11 +2016,6 @@
                         "name": "echopark_spec",
                         "resourceId": "9",
                         "extension": "png"
-                    },
-                    {
-                        "name": "ssss",
-                        "resourceId": "10",
-                        "extension": "js"
                     }
                 ]
             },
@@ -902,10 +2027,6 @@
                 {
                     "id": "9",
                     "path": "echopark_spec.png"
-                },
-                {
-                    "id": "10",
-                    "path": "ssss.js"
                 },
                 {
                     "id": "11",
@@ -945,11 +2066,11 @@
                 },
                 {
                     "id": "27",
-                    "path": "Default Textures\/Base.png"
+                    "path": "_lensInternal\/Default Textures\/Base.png"
                 },
                 {
                     "id": "28",
-                    "path": "Default Textures\/Normal.png"
+                    "path": "_lensInternal\/Default Textures\/Normal.png"
                 },
                 {
                     "id": "29",
@@ -958,11 +2079,156 @@
                 {
                     "id": "30",
                     "path": "duck\/duck_head"
+                },
+                {
+                    "id": "33",
+                    "path": "panda\/3d\/panda0\/Textures\/checker.png"
+                },
+                {
+                    "id": "34",
+                    "path": "panda\/3d\/panda0\/Meshes\/m_000065_2.mesh"
+                },
+                {
+                    "id": "35",
+                    "path": "panda\/3d\/panda0\/Materials\/lambert3"
+                },
+                {
+                    "id": "39",
+                    "path": "panda\/3d\/panda1\/Meshes\/pasted__m_0000101.mesh"
+                },
+                {
+                    "id": "40",
+                    "path": "panda\/3d\/panda1\/Materials\/defaultPolygonShader"
+                },
+                {
+                    "id": "42",
+                    "path": "panda\/3d\/panda2\/Meshes\/polySurface5_2.mesh"
+                },
+                {
+                    "id": "43",
+                    "path": "panda\/3d\/panda2\/Materials\/defaultPolygonShader"
+                },
+                {
+                    "id": "45",
+                    "path": "panda\/3d\/panda3\/Textures\/checker.png"
+                },
+                {
+                    "id": "46",
+                    "path": "panda\/3d\/panda3\/Meshes\/m_000038.mesh"
+                },
+                {
+                    "id": "47",
+                    "path": "panda\/3d\/panda3\/Materials\/lambert3"
+                },
+                {
+                    "id": "49",
+                    "path": "panda\/3d\/panda4\/Meshes\/m_0000011.mesh"
+                },
+                {
+                    "id": "50",
+                    "path": "panda\/3d\/panda4\/Materials\/defaultPolygonShader"
+                },
+                {
+                    "id": "54",
+                    "path": "panda\/Textures\/panda_tx5.png"
+                },
+                {
+                    "id": "55",
+                    "path": "panda\/Textures\/panda_tx0.png"
+                },
+                {
+                    "id": "56",
+                    "path": "panda\/Textures\/panda_tx1.png"
+                },
+                {
+                    "id": "57",
+                    "path": "panda\/Textures\/panda_tx2.png"
+                },
+                {
+                    "id": "58",
+                    "path": "panda\/Textures\/panda_tx3.png"
+                },
+                {
+                    "id": "59",
+                    "path": "panda\/Textures\/panda_tx4.png"
+                },
+                {
+                    "id": "60",
+                    "path": "panda\/Materials\/panda0"
+                },
+                {
+                    "id": "61",
+                    "path": "panda\/Materials\/panda1"
+                },
+                {
+                    "id": "62",
+                    "path": "panda\/Materials\/panda2"
+                },
+                {
+                    "id": "63",
+                    "path": "panda\/Materials\/panda3"
+                },
+                {
+                    "id": "64",
+                    "path": "panda\/Materials\/panda4"
+                },
+                {
+                    "id": "65",
+                    "path": "panda\/Materials\/panda5"
+                },
+                {
+                    "id": "88",
+                    "path": "panda\/3d\/panda5\/Meshes\/pasted__m_0000100.mesh"
                 }
             ]
         },
         "InspectorController": {
-            "selection": ""
+            "selection": {
+                "resources": [
+                    {
+                        "uid": "1557231715332600:12058",
+                        "path_list": [
+                            "panda",
+                            "panda_tx5"
+                        ]
+                    },
+                    {
+                        "uid": "1557231715421106:12067",
+                        "path_list": [
+                            "panda",
+                            "panda_tx0"
+                        ]
+                    },
+                    {
+                        "uid": "1557231715521131:12076",
+                        "path_list": [
+                            "panda",
+                            "panda_tx1"
+                        ]
+                    },
+                    {
+                        "uid": "1557231715602872:12085",
+                        "path_list": [
+                            "panda",
+                            "panda_tx2"
+                        ]
+                    },
+                    {
+                        "uid": "1557231715684854:12094",
+                        "path_list": [
+                            "panda",
+                            "panda_tx3"
+                        ]
+                    },
+                    {
+                        "uid": "1557231715782445:12103",
+                        "path_list": [
+                            "panda",
+                            "panda_tx4"
+                        ]
+                    }
+                ]
+            }
         },
         "EffectsController": {
             "1": "",
@@ -1093,6 +2359,571 @@
                                 "Component.MeshVisual"
                             ],
                             "v": "1557228025005892:1645"
+                        }
+                    ]
+                },
+                {
+                    "k": "1557231255851488:2678",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1557231255851329:4493"
+                        },
+                        {
+                            "k": [
+                                "group1Pivot"
+                            ],
+                            "v": "1557231255851339:4495"
+                        },
+                        {
+                            "k": [
+                                "group1Pivot",
+                                "group1"
+                            ],
+                            "v": "1557231255851342:4497"
+                        },
+                        {
+                            "k": [
+                                "group1Pivot",
+                                "group1",
+                                "transform2"
+                            ],
+                            "v": "1557231255851346:4499"
+                        },
+                        {
+                            "k": [
+                                "group1Pivot",
+                                "group1",
+                                "transform2",
+                                "m_000052"
+                            ],
+                            "v": "1557231255851348:4501"
+                        },
+                        {
+                            "k": [
+                                "group1Pivot",
+                                "group1",
+                                "transform2",
+                                "m_000052",
+                                "transform7"
+                            ],
+                            "v": "1557231255851350:4503"
+                        },
+                        {
+                            "k": [
+                                "group1Pivot",
+                                "group1",
+                                "transform2",
+                                "m_000053"
+                            ],
+                            "v": "1557231255851357:4505"
+                        },
+                        {
+                            "k": [
+                                "group1Pivot",
+                                "group1",
+                                "transform2",
+                                "m_000053",
+                                "transform3"
+                            ],
+                            "v": "1557231255851361:4507"
+                        },
+                        {
+                            "k": [
+                                "group1Pivot",
+                                "group1",
+                                "transform2",
+                                "m_000054"
+                            ],
+                            "v": "1557231255851363:4509"
+                        },
+                        {
+                            "k": [
+                                "group1Pivot",
+                                "group1",
+                                "transform2",
+                                "m_000054",
+                                "transform6"
+                            ],
+                            "v": "1557231255851368:4511"
+                        },
+                        {
+                            "k": [
+                                "group1Pivot",
+                                "group1",
+                                "transform2",
+                                "m_000055"
+                            ],
+                            "v": "1557231255851371:4513"
+                        },
+                        {
+                            "k": [
+                                "group1Pivot",
+                                "group1",
+                                "transform2",
+                                "m_000055",
+                                "transform8"
+                            ],
+                            "v": "1557231255851375:4515"
+                        },
+                        {
+                            "k": [
+                                "group1Pivot",
+                                "group1",
+                                "transform2",
+                                "m_000056"
+                            ],
+                            "v": "1557231255851379:4517"
+                        },
+                        {
+                            "k": [
+                                "group1Pivot",
+                                "group1",
+                                "transform2",
+                                "m_000056",
+                                "transform4"
+                            ],
+                            "v": "1557231255851382:4519"
+                        },
+                        {
+                            "k": [
+                                "group1Pivot",
+                                "group1",
+                                "transform2",
+                                "m_000057"
+                            ],
+                            "v": "1557231255851385:4521"
+                        },
+                        {
+                            "k": [
+                                "group1Pivot",
+                                "group1",
+                                "transform2",
+                                "m_000057",
+                                "transform5"
+                            ],
+                            "v": "1557231255851387:4523"
+                        },
+                        {
+                            "k": [
+                                "group1Pivot",
+                                "group1",
+                                "transform2",
+                                "m_000058"
+                            ],
+                            "v": "1557231255851391:4525"
+                        },
+                        {
+                            "k": [
+                                "group1Pivot",
+                                "group1",
+                                "transform2",
+                                "m_000058",
+                                "transform10"
+                            ],
+                            "v": "1557231255851393:4527"
+                        },
+                        {
+                            "k": [
+                                "group1Pivot",
+                                "group1",
+                                "transform2",
+                                "m_000059"
+                            ],
+                            "v": "1557231255851397:4529"
+                        },
+                        {
+                            "k": [
+                                "group1Pivot",
+                                "group1",
+                                "transform2",
+                                "m_000059",
+                                "transform9"
+                            ],
+                            "v": "1557231255851399:4531"
+                        },
+                        {
+                            "k": [
+                                "group1Pivot",
+                                "group1",
+                                "transform2",
+                                "m_000060"
+                            ],
+                            "v": "1557231255851402:4533"
+                        },
+                        {
+                            "k": [
+                                "group1Pivot",
+                                "group1",
+                                "transform2",
+                                "m_000060",
+                                "transform11"
+                            ],
+                            "v": "1557231255851406:4535"
+                        },
+                        {
+                            "k": [
+                                "group1Pivot",
+                                "group1",
+                                "transform2",
+                                "m_000061"
+                            ],
+                            "v": "1557231255851409:4537"
+                        },
+                        {
+                            "k": [
+                                "group1Pivot",
+                                "group1",
+                                "transform2",
+                                "m_000061",
+                                "transform12"
+                            ],
+                            "v": "1557231255851415:4539"
+                        },
+                        {
+                            "k": [
+                                "group1Pivot",
+                                "group1",
+                                "transform2",
+                                "m_000062"
+                            ],
+                            "v": "1557231255851419:4541"
+                        },
+                        {
+                            "k": [
+                                "group1Pivot",
+                                "group1",
+                                "transform2",
+                                "m_000062",
+                                "transform13"
+                            ],
+                            "v": "1557231255851422:4543"
+                        },
+                        {
+                            "k": [
+                                "group1Pivot",
+                                "group1",
+                                "transform2",
+                                "m_000063"
+                            ],
+                            "v": "1557231255851426:4545"
+                        },
+                        {
+                            "k": [
+                                "group1Pivot",
+                                "group1",
+                                "transform2",
+                                "m_000063",
+                                "transform14"
+                            ],
+                            "v": "1557231255851428:4547"
+                        },
+                        {
+                            "k": [
+                                "group1Pivot",
+                                "group1",
+                                "transform2",
+                                "m_000064"
+                            ],
+                            "v": "1557231255851431:4549"
+                        },
+                        {
+                            "k": [
+                                "group1Pivot",
+                                "group1",
+                                "transform2",
+                                "m_000064",
+                                "transform15"
+                            ],
+                            "v": "1557231255851435:4551"
+                        },
+                        {
+                            "k": [
+                                "group1Pivot",
+                                "group1",
+                                "transform2",
+                                "m_000065"
+                            ],
+                            "v": "1557231255851438:4553"
+                        },
+                        {
+                            "k": [
+                                "group1Pivot",
+                                "group1",
+                                "transform2",
+                                "m_000065",
+                                "transform16"
+                            ],
+                            "v": "1557231255851441:4555"
+                        },
+                        {
+                            "k": [
+                                "m_000065_2Pivot"
+                            ],
+                            "v": "1557231255851447:4557"
+                        },
+                        {
+                            "k": [
+                                "m_000065_2Pivot",
+                                "m_000065_2"
+                            ],
+                            "v": "1557231255851450:4559"
+                        },
+                        {
+                            "k": [
+                                "m_000065_2Pivot",
+                                "m_000065_2",
+                                "Component.MeshVisual"
+                            ],
+                            "v": "1557231255851453:4561"
+                        }
+                    ]
+                },
+                {
+                    "k": "1557231257836592:3035",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1557231257836540:5167"
+                        },
+                        {
+                            "k": [
+                                "pasted__m_0000101Pivot"
+                            ],
+                            "v": "1557231257836551:5169"
+                        },
+                        {
+                            "k": [
+                                "pasted__m_0000101Pivot",
+                                "pasted__m_0000101"
+                            ],
+                            "v": "1557231257836554:5171"
+                        },
+                        {
+                            "k": [
+                                "pasted__m_0000101Pivot",
+                                "pasted__m_0000101",
+                                "Component.MeshVisual"
+                            ],
+                            "v": "1557231257836557:5173"
+                        }
+                    ]
+                },
+                {
+                    "k": "1557231258838111:3191",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1557231258837914:5587"
+                        },
+                        {
+                            "k": [
+                                "m_0000102Pivot"
+                            ],
+                            "v": "1557231258837929:5589"
+                        },
+                        {
+                            "k": [
+                                "m_0000102Pivot",
+                                "m_0000102"
+                            ],
+                            "v": "1557231258837935:5591"
+                        },
+                        {
+                            "k": [
+                                "m_0000102Pivot",
+                                "m_0000102",
+                                "polySurface1"
+                            ],
+                            "v": "1557231258837940:5593"
+                        },
+                        {
+                            "k": [
+                                "m_0000102Pivot",
+                                "m_0000102",
+                                "polySurface1",
+                                "transform48"
+                            ],
+                            "v": "1557231258837945:5595"
+                        },
+                        {
+                            "k": [
+                                "m_0000102Pivot",
+                                "m_0000102",
+                                "polySurface2"
+                            ],
+                            "v": "1557231258837954:5597"
+                        },
+                        {
+                            "k": [
+                                "m_0000102Pivot",
+                                "m_0000102",
+                                "polySurface2",
+                                "transform49"
+                            ],
+                            "v": "1557231258837959:5599"
+                        },
+                        {
+                            "k": [
+                                "m_0000102Pivot",
+                                "m_0000102",
+                                "polySurface3"
+                            ],
+                            "v": "1557231258837965:5601"
+                        },
+                        {
+                            "k": [
+                                "m_0000102Pivot",
+                                "m_0000102",
+                                "polySurface3",
+                                "transform50"
+                            ],
+                            "v": "1557231258837971:5603"
+                        },
+                        {
+                            "k": [
+                                "m_0000102Pivot",
+                                "m_0000102",
+                                "polySurface4"
+                            ],
+                            "v": "1557231258837984:5605"
+                        },
+                        {
+                            "k": [
+                                "m_0000102Pivot",
+                                "m_0000102",
+                                "polySurface4",
+                                "transform51"
+                            ],
+                            "v": "1557231258837991:5607"
+                        },
+                        {
+                            "k": [
+                                "m_0000102Pivot",
+                                "m_0000102",
+                                "polySurface5"
+                            ],
+                            "v": "1557231258838009:5609"
+                        },
+                        {
+                            "k": [
+                                "m_0000102Pivot",
+                                "m_0000102",
+                                "polySurface5",
+                                "transform52"
+                            ],
+                            "v": "1557231258838015:5611"
+                        },
+                        {
+                            "k": [
+                                "m_0000102Pivot",
+                                "m_0000102",
+                                "transform47"
+                            ],
+                            "v": "1557231258838023:5613"
+                        },
+                        {
+                            "k": [
+                                "polySurface5_2Pivot"
+                            ],
+                            "v": "1557231258838034:5615"
+                        },
+                        {
+                            "k": [
+                                "polySurface5_2Pivot",
+                                "polySurface5_2"
+                            ],
+                            "v": "1557231258838039:5617"
+                        },
+                        {
+                            "k": [
+                                "polySurface5_2Pivot",
+                                "polySurface5_2",
+                                "Component.MeshVisual"
+                            ],
+                            "v": "1557231258838045:5619"
+                        }
+                    ]
+                },
+                {
+                    "k": "1557231260930516:3435",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1557231260930472:6121"
+                        },
+                        {
+                            "k": [
+                                "m_000038Pivot"
+                            ],
+                            "v": "1557231260930481:6123"
+                        },
+                        {
+                            "k": [
+                                "m_000038Pivot",
+                                "m_000038"
+                            ],
+                            "v": "1557231260930484:6125"
+                        },
+                        {
+                            "k": [
+                                "m_000038Pivot",
+                                "m_000038",
+                                "Component.MeshVisual"
+                            ],
+                            "v": "1557231260930488:6127"
+                        }
+                    ]
+                },
+                {
+                    "k": "1557231261956252:3605",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1557231261956201:6588"
+                        },
+                        {
+                            "k": [
+                                "m_0000011Pivot"
+                            ],
+                            "v": "1557231261956212:6590"
+                        },
+                        {
+                            "k": [
+                                "m_0000011Pivot",
+                                "m_0000011"
+                            ],
+                            "v": "1557231261956216:6592"
+                        },
+                        {
+                            "k": [
+                                "m_0000011Pivot",
+                                "m_0000011",
+                                "Component.MeshVisual"
+                            ],
+                            "v": "1557231261956219:6594"
+                        }
+                    ]
+                },
+                {
+                    "k": "1557233681790776:2554",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1557233681790728:6681"
+                        },
+                        {
+                            "k": [
+                                "pasted__m_0000100"
+                            ],
+                            "v": "1557233681790741:6683"
+                        },
+                        {
+                            "k": [
+                                "pasted__m_0000100",
+                                "Component.MeshVisual"
+                            ],
+                            "v": "1557233681790745:6685"
                         }
                     ]
                 }
