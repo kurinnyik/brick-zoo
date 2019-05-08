@@ -93,9 +93,9 @@ function collisionHandler(eventData) {
                 var detailMeshV = detailsArray[checkedDetails[i]].getFirstComponent("Component.MeshVisual");
                 detailsArray[checkedDetails[i]].enabled = true;
                 detailMeshV.clearMaterials();
-                detailMeshV.addMaterial(script.transparent);
+                detailMeshV.addMaterial(script.transparent_green);
                 currentMesh.clearMaterials();
-                currentMesh.addMaterial(script.transparent_green);
+                currentMesh.addMaterial(script.transparent);
             }
             else {
                 print('name' + global.meshes[global.dragged.uid].meshV.name)

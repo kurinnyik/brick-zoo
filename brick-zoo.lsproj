@@ -3,7 +3,7 @@
     "document_id": "fTrYk5by6ql_oc6OI5xn",
     "original_document_id": "ZN218oWWInb5xMNnb72T",
     "version": "2",
-    "lastChanged": "1557322602441",
+    "lastChanged": "1557324568840",
     "preview": "icon.png",
     "isReadOnly": "false",
     "studioVersion": {
@@ -1367,20 +1367,6 @@
                     "subtype": "0"
                 },
                 {
-                    "resId": "95",
-                    "uid": "1557306250450637:7050",
-                    "name": "\/Resources\/Resource95",
-                    "sourceFilePath": "",
-                    "additionalProperties": {
-                        "pass_source": [
-                            ""
-                        ]
-                    },
-                    "flags": "1",
-                    "type": "2",
-                    "subtype": "0"
-                },
-                {
                     "resId": "96",
                     "uid": "1557306276843837:7088",
                     "name": "\/Resources\/Resource96",
@@ -1426,6 +1412,20 @@
                     "additionalProperties": "",
                     "flags": "0",
                     "type": "12",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "103",
+                    "uid": "1557324357929460:103536",
+                    "name": "\/Resources\/Resource103",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
                     "subtype": "0"
                 }
             ]
@@ -2189,11 +2189,6 @@
                         "extension": "png"
                     },
                     {
-                        "name": "transparent",
-                        "resourceId": "95",
-                        "extension": ""
-                    },
-                    {
                         "name": "transparent_green",
                         "resourceId": "96",
                         "extension": ""
@@ -2201,6 +2196,11 @@
                     {
                         "name": "menuItem",
                         "resourceId": "99",
+                        "extension": ""
+                    },
+                    {
+                        "name": "transparent",
+                        "resourceId": "103",
                         "extension": ""
                     }
                 ]
@@ -2383,12 +2383,12 @@
                     "path": "scripts\/gameController.js"
                 },
                 {
-                    "id": "95",
-                    "path": "transparent"
-                },
-                {
                     "id": "96",
                     "path": "transparent_green"
+                },
+                {
+                    "id": "103",
+                    "path": "transparent"
                 }
             ]
         },
@@ -2396,7 +2396,7 @@
             "selection": {
                 "resources": [
                     {
-                        "uid": "1557306250450637:7050",
+                        "uid": "1557324357929460:103536",
                         "path_list": [
                             "transparent"
                         ]
